@@ -1,1 +1,1 @@
-this is a repository on C language programming
+this is a repository for c program
