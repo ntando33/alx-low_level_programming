@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Learning to coding in C programming
+this is a repository on C language programming
